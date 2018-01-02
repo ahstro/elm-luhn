@@ -5,7 +5,7 @@ Validate numbers using the [Luhn algorithm](https://en.wikipedia.org/wiki/Luhn_a
 ## Installation
 
 ```sh
-elm-package install ahstro/luhn
+elm-package install ahstro/elm-luhn
 ```
 
 ## Usage
