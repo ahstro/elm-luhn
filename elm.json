@@ -3,7 +3,7 @@
     "name": "ahstro/elm-luhn",
     "summary": "Luhn Algorithm validator",
     "license": "BSD-3-Clause",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "exposed-modules": [
         "Luhn"
     ],
