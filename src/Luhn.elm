@@ -1,4 +1,4 @@
-module Luhn exposing (isValid, validate)
+module Luhn exposing (validate, isValid)
 
 {-| This library allows you to validate data using the Luhn Algorithm.
 The algorithm is often used to guard against simple mistakes when
